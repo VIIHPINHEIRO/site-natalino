@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/site-natalino/static/css/main.ab83ec6b.css",
+    "main.js": "/site-natalino/static/js/main.b7d367dc.js",
+    "static/js/453.138bbf09.chunk.js": "/site-natalino/static/js/453.138bbf09.chunk.js",
+    "index.html": "/site-natalino/index.html",
+    "main.ab83ec6b.css.map": "/site-natalino/static/css/main.ab83ec6b.css.map",
+    "main.b7d367dc.js.map": "/site-natalino/static/js/main.b7d367dc.js.map",
+    "453.138bbf09.chunk.js.map": "/site-natalino/static/js/453.138bbf09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab83ec6b.css",
+    "static/js/main.b7d367dc.js"
+  ]
+}
